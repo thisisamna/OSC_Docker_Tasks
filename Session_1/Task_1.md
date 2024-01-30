@@ -17,6 +17,6 @@
 
 ```
 docker ps
-sudo docker stop d183247c316c
-sudo docker rm d183247c316c
+docker stop d183247c316c
+docker rm d183247c316c
 ```
