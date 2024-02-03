@@ -1,2 +1,2 @@
 from alpine
-run apk add gcc
+run apk add g++
